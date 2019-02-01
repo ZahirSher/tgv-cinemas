@@ -1,2 +1,2 @@
 # tgv-cinemas
-Movie ticketing system using vbnet
+Movie Ticketing System using vbnet
